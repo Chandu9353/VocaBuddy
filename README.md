@@ -14,9 +14,9 @@ A sleek, modern React.js voice assistant, pronunciation coach, and vocabulary co
    - User listens to native audio guide, clicks the microphone, and speaks the word.
    - Compares spoken speech against the target word using SpeechRecognition and string similarity scoring (Levenshtein distance).
    - Generates instant visual feedback:
-     - **🎉 Great job!** (Perfect pronunciation, emerald celebration card).
-     - **👏 Almost there!** (Close attempt with syllable tips, amber card).
-     - **❌ Try again!** (Clear guidance on heard vs. expected word, rose card).
+     - ** Great job!** (Perfect pronunciation, emerald celebration card).
+     - ** Almost there!** (Close attempt with syllable tips, amber card).
+     - ** Try again!** (Clear guidance on heard vs. expected word, rose card).
      - Interactive **"Try Again"** button to practice repeatedly.
 
 3. **Daily Rotating "Word of the Day"**:
